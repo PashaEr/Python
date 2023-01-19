@@ -1,0 +1,9 @@
+# 3. Напишите программу, удаляющую из текста все слова, содержащие "абв".
+
+# text = 'пра праАБВ оарп аоаоповАБВ азвлаоылаы АБВитиВБ АБВ'
+
+# text = text = list(filter(lambda el: 'абв' not in el.lower(), text.split()))
+# print()
+# print(' '.join(text))
+# print()
+#
